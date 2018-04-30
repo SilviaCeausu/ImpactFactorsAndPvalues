@@ -1,0 +1,2 @@
+# ImpactFactorsAndPvalues
+Unbiased scientific reporting is crucial for data and research synthesis. Here, we extract p-values from all articles published in 11 journals in ecology and conservation in 2012 and 2014 across a wide range of impact factors with six journals sampled in both years. Our results indicate that the proportion of statistically significant results increases with rising impact factor. 
